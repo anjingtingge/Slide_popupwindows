@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="700dp"
+    >
+
+    <!--<View-->
+        <!--android:id="@+id/transparent"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="15dp"-->
+        <!--android:background="#00ffffff" />-->
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/pop_computer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="电脑"
+            android:textColor="#000000"
+            android:background="@color/colorPrimary"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/pop_financial"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="你好"
+            android:background="@color/colorPrimary"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/pop_manage"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="哈哈"
+            android:background="@color/colorPrimary"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="4"
+            android:background="@color/colorPrimary"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="5"
+            android:background="@color/colorPrimary"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="6"
+            android:background="@color/colorPrimary"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="7"
+            android:background="@color/colorPrimary"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:background="@color/colorPrimary"
+            android:text="8"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="9"
+            android:background="@color/colorPrimary"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="10"
+            android:textColor="#000000"
+            android:background="@color/colorPrimary"
+            android:textSize="18sp" />
+
+        <!--<View-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="1px"-->
+            <!--android:background="#000000" />-->
+
+        <!--<TextView-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center"-->
+            <!--android:padding="5dp"-->
+            <!--android:text="男"-->
+            <!--android:textColor="#000000" />-->
+
+        <!--<View-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="1px"-->
+            <!--android:background="#000000" />-->
+
+        <!--<TextView-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center"-->
+            <!--android:padding="5dp"-->
+            <!--android:text="女"-->
+            <!--android:textColor="#000000" />-->
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
